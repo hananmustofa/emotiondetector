@@ -29,3 +29,12 @@ We use **TF-IDF** for text vectorization and a **Support Vector Machine (SVM)** 
 ```bash
 git clone https://github.com/hananmustofa/emotiondetector.git
 cd emotiondetector
+
+streamlit run main.py
+
+📊 Dataset
+We use the open-source emotion dataset from Kaggle:
+Emotion Dataset by Parul Pandey
+
+📜 License
+This project is open-source under the MIT License.
